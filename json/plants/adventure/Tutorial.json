@@ -1,0 +1,7 @@
+[
+{"id":"1","code":"peashooter","name":"Peashooter","sun_cost":"100","rarity":"Common","adventure":"Tutorial","family":"Appease-mint","tooltip":"Shoots peas at the enemy","image_base_url":"c/ca","icon_url":""},
+{"id":"2","code":"sunflower","name":"Sunflower","sun_cost":"50","rarity":"Common","adventure":"Tutorial","family":"Enlighten-mint","tooltip":"Gives you additional sun","image_base_url":"d/de","icon_url":""},
+{"id":"3","code":"wallnut","name":"Wall-nut","sun_cost":"50","rarity":"Common","adventure":"Tutorial","family":"Reinforce-mint","tooltip":"Blocks off zombies and protects your other plants","image_base_url":"1/17","icon_url":""},
+{"id":"4","code":"potato_mine","name":"Potato Mine","sun_cost":"25","rarity":"Common","adventure":"Tutorial","family":"Bombard-mint","tooltip":"Explores on contact, but takes time to arm itself","image_base_url":"a/a0","icon_url":""},
+{"id":"5","code":"cabbagepult","name":"Cabbage-pult","sun_cost":"100","rarity":"Common","adventure":"Tutorial","family":"Arma-mint","tooltip":"Hurls cabbages over obstacles at the enemy","image_base_url":"7/76","icon_url":""}
+]
