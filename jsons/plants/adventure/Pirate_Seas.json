@@ -1,0 +1,12 @@
+[
+{"id":13,"code":"kernelpult","name":"Kernel-pult","sun_cost":100,"rarity":"Common","family":"Arma-mint","tooltip":"Flings corn kernels and butter at zombies"},
+{"id":14,"code":"snapdragon","name":"Snapdragon","sun_cost":150,"rarity":"Common","family":"Pepper-mint","tooltip":"Breathes fire in an area in front of i"},
+{"id":15,"code":"spikeweed","name":"Spikeweed","sun_cost":100,"rarity":"Common","family":"Spear-mint","tooltip":"Breaks 1 rolling object, hurts zombies that step on it"},
+{"id":16,"code":"spring_bean","name":"Spring Bean","sun_cost":50,"rarity":"Common","family":"Contain-mint","tooltip":"Bounces zombies back and into nearby water"},
+{"id":17,"code":"coconut_cannon","name":"Coconut Cannon","sun_cost":400,"rarity":"Common","family":"Arma-mint","tooltip":"Tap on the cannon to fire an explosive coconut"},
+{"id":18,"code":"threepeater","name":"Threepeater","sun_cost":300,"rarity":"Common","family":"Appease-mint","tooltip":"Shoots peas in three lanes"},
+{"id":19,"code":"spikerovk","name":"Spikerock","sun_cost":250,"rarity":"Common","family":"Spear-mint","tooltip":"Breaks 3 rolling objects, hurts zombies that step on it"},
+{"id":20,"code":"cherry_bomb","name":"Cherry Bomb","sun_cost":150,"rarity":"Common","family":"Bombard-mint","tooltip":"Blows up all zombies in a medium area"},
+{"id":21,"code":"power_lily","name":"Power Lily","sun_cost":175,"rarity":"Premium","family":"","tooltip":"Creates one Plant Food for use"},
+{"id":22,"code":"squash","name":"Squash","sun_cost":50,"rarity":"Premium","family":"Enforce-mint","tooltip":"Squashes zombies"}
+]
