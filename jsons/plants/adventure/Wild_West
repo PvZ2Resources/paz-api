@@ -1,0 +1,12 @@
+[
+{"id":23,"code":"split_pea","name":"Split Pea","sun_cost":125,"rarity":"Common","family":"Appease-mint","tooltip":"Shoots peas forward and backward"},
+{"id":24,"code":"chili_bean","name":"Chili Bean","sun_cost":50,"rarity":"Common","family":"Ail-mint","tooltip":"Zombies that eat it are defeated and release gas"},
+{"id":25,"code":"pea_pod","name":"Pea Pod","sun_cost":125,"rarity":"Common","family":"Appease-mint","tooltip":"Plant multiple times on the same spot to multiply damage"},
+{"id":26,"code":"lightning_reed","name":"Lightning Reed","sun_cost":125,"rarity":"Common","family":"Fila-mint","tooltip":"Zaps several chickens or zombies per strike"},
+{"id":27,"code":"melonpult","name":"Melon-pult","sun_cost":325,"rarity":"Common","family":"Arma-mint","tooltip":"Does heavy damage to groups of zombies"},
+{"id":28,"code":"tallnut","name":"Tall-nut","sun_cost":125,"rarity":"Common","family":"Reinforce-mint","tooltip":"Heavy-duty wall that blocks low flying zombies"},
+{"id":29,"code":"winter_menlon","name":"Winter Melon","sun_cost":500,"rarity":"Common","family":"Winter-mint","tooltip":"Does heavy damage and slows groups of zombies"},
+{"id":30,"code":"torchwood","name":"Torchwood","sun_cost":175,"rarity":"Premium","family":"Pepper-mint","tooltip":"Peas that pass through it turn into fireballs"},
+{"id":31,"code":"jalapeno","name":"Jalapeno","sun_cost":125,"rarity":"Premium","family":"Pepper-mint","tooltip":"Destroys an entire lane of zombies"},
+{"id":32,"code":"imitater","name":"Imitater","sun_cost":"???","rarity":"Premium","family":"","tooltip":"Lets you have two of the same plant"}
+]
