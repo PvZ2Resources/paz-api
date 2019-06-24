@@ -1,9 +1,9 @@
 [
-{"id":"6","code":"bloomerang","name":"Bloomerang","sun_cost":"175","rarity":"Common","adventure":"Ancient Egypt","family":"Spear-mint","tooltip":"Hits up to three targets in its lane, twice","image_base_url":"5/57","icon_url":""},
-{"id":"7","code":"iceberg_lettuce","name":"Iceberg Lettuce","sun_cost":"0","rarity":"Common","adventure":"Ancient Egypt","family":"Winter-mint","tooltip":"Freezes zombies that step on it, and extinguishes flames","image_base_url":"d/d0","icon_url":""},
-{"id":"8","code":"grave_buster","name":"Grave Buster","sun_cost":"0","rarity":"Common","adventure":"Ancient Egypt","family":"Contain-mint","tooltip":"Plant it on a grave to remove the grave","image_base_url":"1/1d","icon_url":""},
-{"id":"9","code":"bonk_choy","name":"Bonk Choy","sun_cost":"150","rarity":"Common","adventure":"Ancient Egypt","family":"Enforce-mint","tooltip":"Rapidly punches enemies ahead or behind","image_base_url":"7/75","icon_url":""},
-{"id":"10","code":"repeater","name":"Repeater","sun_cost":"200","rarity":"Common","adventure":"Ancient Egypt","family":"Appease-mint","tooltip":"Shoots two peas at the enemy","image_base_url":"9/9f","icon_url":""},
-{"id":"11","code":"twin_sunflower","name":"Twin Sunflower","sun_cost":"125","rarity":"Common","adventure":"Ancient Egypt","family":"Enlighten-mint","tooltip":"Gives twice as much sun as a sunflower","image_base_url":"1/1e","icon_url":""},
-{"id":"12","code":"snow_pea","name":"Snow Pea","sun_cost":"150","rarity":"Premium","adventure":"Ancient Egypt","family":"Winter-mint","tooltip":"Shoots frozen peas that damage and slow zombies","image_base_url":"a/af","icon_url":""}
+{"id":6,"code":"bloomerang","name":"Bloomerang","sun_cost":175,"rarity":"Common","family":"Spear-mint","tooltip":"Hits up to three targets in its lane, twice"},
+{"id":7,"code":"iceberg_lettuce","name":"Iceberg Lettuce","sun_cost":0,"rarity":"Common","family":"Winter-mint","tooltip":"Freezes zombies that step on it, and extinguishes flames"},
+{"id":8,"code":"grave_buster","name":"Grave Buster","sun_cost":0,"rarity":"Common","family":"Contain-mint","tooltip":"Plant it on a grave to remove the grave"},
+{"id":9,"code":"bonk_choy","name":"Bonk Choy","sun_cost":150,"rarity":"Common","family":"Enforce-mint","tooltip":"Rapidly punches enemies ahead or behind"},
+{"id":10,"code":"repeater","name":"Repeater","sun_cost":200,"rarity":"Common","family":"Appease-mint","tooltip":"Shoots two peas at the enemy"},
+{"id":11,"code":"twin_sunflower","name":"Twin Sunflower","sun_cost":125,"rarity":"Common","family":"Enlighten-mint","tooltip":"Gives twice as much sun as a sunflower"},
+{"id":12,"code":"snow_pea","name":"Snow Pea","sun_cost":150,"rarity":"Premium","family":"Winter-mint","tooltip":"Shoots frozen peas that damage and slow zombies"}
 ]
